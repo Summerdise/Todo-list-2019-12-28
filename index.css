@@ -1,0 +1,42 @@
+.total {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.title {
+    margin-top: 30px;
+    font-size: 22px;
+    font-weight: 900px;
+}
+
+.description {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.input {
+    width: 300px;
+    height: 25px;
+}
+
+.add-btn {
+    width: 50px;
+    height: 25px;
+    background-color: pink;
+    color: white;
+}
+
+.total-list {
+    margin-left: 0;
+}
+
+.foot {
+    text-align: center;
+}
+
+.bottom-btn {
+    height: 25px;
+    background-color: white;
+    color: pink;
+    border: none;
+    font-size: 16px;
+}
