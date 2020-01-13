@@ -1,42 +1,54 @@
 .total {
-    width: 500px;
-    margin: 0 auto;
+  height: 400px;
+  width: 500px;
+  margin: 0 auto;
+  border: 1px solid pink;
 }
 
+.input-box {
+  width: 420px;
+  margin: 30px auto 0 auto;
+}
 .title {
-    margin-top: 30px;
-    font-size: 22px;
-    font-weight: 900px;
+  margin-top: 30px;
+  font-size: 22px;
+  font-weight: 900px;
 }
 
 .description {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 .input {
-    width: 300px;
-    height: 25px;
+  width: 300px;
+  height: 25px;
 }
 
 .add-btn {
-    width: 50px;
-    height: 25px;
-    background-color: pink;
-    color: white;
+  width: 50px;
+  height: 25px;
+  background-color: pink;
+  color: white;
+}
+
+.list-content {
+  width: 420px;
+  margin: 0 auto 0 auto;
 }
 
 .total-list {
-    margin-left: 0;
+  margin-left: 0;
+  
 }
 
 .foot {
-    text-align: center;
+  text-align: center;
 }
 
 .bottom-btn {
-    height: 25px;
-    background-color: white;
-    color: pink;
-    border: none;
-    font-size: 16px;
+  height: 25px;
+  background-color: white;
+  color: pink;
+  border: none;
+  font-size: 16px;
 }
